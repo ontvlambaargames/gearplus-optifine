@@ -161,12 +161,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [5, 0, 0.75],
-			"scale": [0.6, 0.6, 0.6]
+			"translation": [6.5, 1, 10],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"thirdperson_lefthand": {
-			"translation": [-4.25, 1.25, 0],
-			"scale": [0.6, 0.6, 0.6]
+			"translation": [-6.25, 1.25, 10],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_righthand": {
 			"translation": [8.25, 0, 0]
