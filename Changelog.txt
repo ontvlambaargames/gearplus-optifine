@@ -1,0 +1,18 @@
+The following changes have been made since the last update:
+*Cat hats:
+- Now inherit their texture directly from Minecraft, making them responsive to resource pack usage
+- Now come in every cat type
+
+*Kitty cannons
+- Now use the cat hat model to reduce pack size
+- Now come in all different cat variants
+
+*Top hats:
+- Now inherit their texture directly from Minecraft, making them responsive to resource pack usage
+- Monocle moved slightly more towards the player, so that it doesn't appear to float in front of the player (There was a little whitespace between the player and monocle)
+- Now come in all minecraft colors
+KNOWN ISSUE: If skins have a hat layer, it will render through the hat. 
+
+*Fez hat:
+- New model
+- Now inherits its texture from the Minecraft directly, making it responsive to resource pack usage.

@@ -1,0 +1,6 @@
+{
+  "parent": "./black_cat",
+  "textures": {
+	"0": "entity/cat/ocelot"
+  }
+}

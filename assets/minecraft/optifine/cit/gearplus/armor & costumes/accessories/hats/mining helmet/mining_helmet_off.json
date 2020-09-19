@@ -1,0 +1,10 @@
+{
+  "parent": "./mining_helmet_on",
+  "textures": {
+		"0": "block/yellow_terracotta",
+		"1": "block/yellow_concrete",
+		"2": "block/redstone_lamp",
+		"3": "block/black_terracotta",
+		"particle": "block/yellow_terracotta"
+  }
+}
